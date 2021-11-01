@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "Country": "COLOMBIA",
+        "price": "2000",
+        "description": "Colombia is ripe for discovery, and there is a little of everything: green valleys, golden beaches and snow-capped mountains, colonial fortresses.",
+        "img": "https://i.ibb.co/0jsXN8Q/joel-peel-m-AMRp-Blah-s-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "Country": "ARGENTINA",
+        "price": "5000",
+        "description": "It has become cliché to say that Argentina is as much European as it is Latin; yet to arrive in Buenos Aires and discover this is actually true still surprises.",
+        "img": "https://i.ibb.co/jJxByQF/qingbao-meng-01-ig-Fr7hd4-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "Country": "VIETNAM",
+        "price": "1500",
+        "description": "But today, the Vietnamese are focused on rocketing into the future. In this new era of confident self-determination the atmosphere is one of palpable optimism.",
+        "img": "https://i.ibb.co/f9R92sT/jonatan-lewczuk-MAN-af-LJt2-E-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "Country": "TANZANIA",
+        "price": "3000",
+        "description": "One of the most popular tourist destinations in Africa, Tanzania is well-established as one of the best wildlife-viewing destinations in the world.",
+        "img": "https://i.ibb.co/bJ6PsLJ/tim-swaan-e-Opewngf68w-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "Country": "MOROCCO",
+        "price": "4000",
+        "description": "Morocco has variety and an exotic feel that has fascinated travellers since long before the modern traveller arrived. Morocco’s Amazing Diversity.",
+        "img": "https://i.ibb.co/G32KdZZ/david-marcu-78-A265w-Pi-O4-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "Country": "ECUADOR",
+        "price": "2000",
+        "description": "Compact and diverse, Ecuador is like a tasting menu for South America. There are Andean mountains, complete with glacial volcanoes.",
+        "img": "https://i.ibb.co/Dz8T0bB/veeterzy-s-MQi-L-2v4vs-unsplash.jpg"
+    }
+]
